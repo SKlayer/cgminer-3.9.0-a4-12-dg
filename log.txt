@@ -1,0 +1,198 @@
+ starting cgminer process
+ [2014-01-09 11:38:04] Started cgminer 3.9.0                    
+ [2014-01-09 11:38:04] A1 detect                    
+ [2014-01-09 11:38:04] RES: thread starting                    
+ [2014-01-09 11:38:04] NO ST MCU controller
+                    
+ [2014-01-09 11:38:04] GPIO CS is OFF and force at CS0
+                    
+ [2014-01-09 11:38:04] SPI '/dev/spidev0.0': mode=1, bits=8, speed=1500000                    
+ [2014-01-09 11:38:04] A1 init chain                    
+ChipSel:0
+ [2014-01-09 11:38:04] Processing command 0x0400
+                    
+ [2014-01-09 11:38:04] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:04] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:06] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:06] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:06] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:06] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:06] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:06] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:06] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:06] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:06] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:06] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:06] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:06] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:06] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:06] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:06] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:06] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:06] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:06] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:06] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:06] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:06] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:06] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:06] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:06] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:06] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:06] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:06] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:06] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:06] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:06] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:06] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:06] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:06] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:06] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:06] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:06] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:06] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:06] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:06] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:06] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:06] Failure: missing ACK for cmd 0x04                    
+ [2014-01-09 11:38:06] SPI '/dev/spidev0.1': mode=1, bits=8, speed=1500000                    
+ [2014-01-09 11:38:06] A1 init chain                    
+ChipSel:0
+ [2014-01-09 11:38:06] Processing command 0x0400
+                    
+ [2014-01-09 11:38:06] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:06] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:08] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:08] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:08] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:08] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:08] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:08] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:08] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:08] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:08] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:08] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:08] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:08] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:08] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:08] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:08] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:08] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:08] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:08] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:08] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:08] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:08] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:08] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:08] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:08] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:08] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:08] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:08] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:08] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:08] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:08] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:08] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:08] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:08] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:08] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:08] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:08] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:08] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:08] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:08] TX: 2 bytes:04 00                     
+ [2014-01-09 11:38:08] RX: 2 bytes:FF FF                     
+ [2014-01-09 11:38:08] Failure: missing ACK for cmd 0x04                    
+ [2014-01-09 11:38:08] No devices detected!                    
+ [2014-01-09 11:38:08] Waiting for USB hotplug devices or press q to quit                    
+ [2014-01-09 11:38:08] Probing for an alive pool                    
+ [2014-01-09 11:38:08] Testing pool stratum+tcp://stratum.bitcoin.cz:3333                    
+ [2014-01-09 11:38:09] Succeeded delayed connect                    
+ [2014-01-09 11:38:09] Pool 0 stratum session id: ae6812eb4cd7735a302a8a9dd95cf71f                    
+ [2014-01-09 11:38:09] Pool 0 difficulty changed to 3                    
+ [2014-01-09 11:38:10] Stratum authorisation success for pool 0                    
+ [2014-01-09 11:38:10] Pool 0 stratum+tcp://stratum.bitcoin.cz:3333 alive                    
+ [2014-01-09 11:38:10] Work update message received                    
+ [2014-01-09 11:38:10] Selecting pool 0 for work                    
+ [2014-01-09 11:38:10] Generated stratum merkle 79a0505fcdb2a30a8f4bc8bed7854ef95efb0a09efa7eb747fd3077a5157624d                    
+ [2014-01-09 11:38:10] Generated stratum header 000000022547fb3156ec796f87e267cf8b6cc9eb18f0b758ac92c0b7000000010000000079a0505fcdb2a30a8f4bc8bed7854ef95efb0a09efa7eb747fd3077a5157624d52ce19a91903071f000000000000008000000000000000000000000000000000000000000000000000000000000000                    
+ [2014-01-09 11:38:10] Work job_id 13891 nonce2 0 ntime 52ce19a9                    
+ [2014-01-09 11:38:10] Generated target 0000000000000000000000000000000000000000000000000000555500000000                    
+ [2014-01-09 11:38:10] Generated stratum work                    
+ [2014-01-09 11:38:10] Pushing work from pool 0 to hash queue                    
+ [2014-01-09 11:38:10] Network diff set to 1.42G                    
+ [2014-01-09 11:38:10] New block: 0000000000000001ac92c0b718f0b7588b6cc9eb87e267cf56ec796f2547fb31... diff 1.42G                    
+ [2014-01-09 11:38:10] Selecting pool 0 for work                    
+ [2014-01-09 11:38:10] Generated stratum merkle 06725ea79f7af41e8e97e51bf3bb0ab537f24b7ac8e5d6856430cc23ef54fc08                    
+ [2014-01-09 11:38:10] API not running - API will not be available                    
+ [2014-01-09 11:38:10] Generated stratum header 000000022547fb3156ec796f87e267cf8b6cc9eb18f0b758ac92c0b7000000010000000006725ea79f7af41e8e97e51bf3bb0ab537f24b7ac8e5d6856430cc23ef54fc0852ce19a91903071f000000000000008000000000000000000000000000000000000000000000000000000000000000                    
+ [2014-01-09 11:38:10] Work job_id 13891 nonce2 1 ntime 52ce19a9                    
+ [2014-01-09 11:38:10] Generated target 0000000000000000000000000000000000000000000000000000555500000000                    
+ [2014-01-09 11:38:10] Generated stratum work                    
+ [2014-01-09 11:38:10] Pushing work from pool 0 to hash queue                    
+(5s):0.000 (avg):0.000h/s | A:0  R:0  HW:0  WU:0.0/m           [2014-01-09 11:38:20] Work stale due to stratum job_id mismatch                    
+ [2014-01-09 11:38:20] Discarded work                    
+ [2014-01-09 11:38:20] Work stale due to stratum job_id mismatch                    
+ [2014-01-09 11:38:20] Discarded work                    
+ [2014-01-09 11:38:20] Selecting pool 0 for work                    
+ [2014-01-09 11:38:20] Generated stratum merkle 88cfef8fa2be259782ac2c31e1694f12dd8db6cf62a0b089fe3fd8c333ca0526                    
+ [2014-01-09 11:38:20] Generated stratum header 000000022547fb3156ec796f87e267cf8b6cc9eb18f0b758ac92c0b7000000010000000088cfef8fa2be259782ac2c31e1694f12dd8db6cf62a0b089fe3fd8c333ca052652ce19c71903071f000000000000008000000000000000000000000000000000000000000000000000000000000000                    
+ [2014-01-09 11:38:20] Work job_id 13892 nonce2 2 ntime 52ce19c7                    
+ [2014-01-09 11:38:20] Generated target 0000000000000000000000000000000000000000000000000000555500000000                    
+ [2014-01-09 11:38:20] Generated stratum work                    
+ [2014-01-09 11:38:20] Pushing work from pool 0 to hash queue                    
+ [2014-01-09 11:38:20] Work update message received                    
+ [2014-01-09 11:38:20] Selecting pool 0 for work                    
+ [2014-01-09 11:38:20] Generated stratum merkle aa7ce8c40cd0ec2d6fdb93f3f00e90b21e948173bbd45dd0d76ef4b3e5df874d                    
+ [2014-01-09 11:38:20] Generated stratum header 000000022547fb3156ec796f87e267cf8b6cc9eb18f0b758ac92c0b70000000100000000aa7ce8c40cd0ec2d6fdb93f3f00e90b21e948173bbd45dd0d76ef4b3e5df874d52ce19c71903071f000000000000008000000000000000000000000000000000000000000000000000000000000000                    
+ [2014-01-09 11:38:20] Work job_id 13892 nonce2 3 ntime 52ce19c7                    
+ [2014-01-09 11:38:20] Generated target 0000000000000000000000000000000000000000000000000000555500000000                    
+ [2014-01-09 11:38:20] Discarded 2 stales that didn't match current hash                    
+ [2014-01-09 11:38:20] Generated stratum work                    
+ [2014-01-09 11:38:20] Pushing work from pool 0 to hash queue                    
+(5s):0.000 (avg):0.000h/s | A:0  R:0  HW:0  WU:0.0/m           [2014-01-09 11:38:23] Generated stratum merkle dd2e959dc0899ecb24184795c006992254ce9d16e1c250864cf15b9f0ca290b1                    
+ [2014-01-09 11:38:23] Generated stratum header 00000002a63db41ee4f59a4c505db4f4f7c31192e2d1bac4642b804b0000000200000000dd2e959dc0899ecb24184795c006992254ce9d16e1c250864cf15b9f0ca290b152ce19c81903071f000000000000008000000000000000000000000000000000000000000000000000000000000000                    
+ [2014-01-09 11:38:23] Work job_id 13893 nonce2 0 ntime 52ce19c8                    
+ [2014-01-09 11:38:23] Generated target 0000000000000000000000000000000000000000000000000000555500000000                    
+ [2014-01-09 11:38:23] New block: 0000000000000002642b804be2d1bac4f7c31192505db4f4e4f59a4ca63db41e... diff 1.42G                    
+ [2014-01-09 11:38:23] Stratum from pool 0 detected new block                    
+ [2014-01-09 11:38:23] Work stale due to block mismatch                    
+ [2014-01-09 11:38:23] Discarded work                    
+ [2014-01-09 11:38:23] Work stale due to block mismatch                    
+ [2014-01-09 11:38:23] Discarded work                    
+ [2014-01-09 11:38:23] Selecting pool 0 for work                    
+ [2014-01-09 11:38:23] Generated stratum merkle e411d1908a48e465d61d1ea360e388d3f1b24301f75645bb74c0531d6a9bca4e                    
+ [2014-01-09 11:38:23] Generated stratum header 00000002a63db41ee4f59a4c505db4f4f7c31192e2d1bac4642b804b0000000200000000e411d1908a48e465d61d1ea360e388d3f1b24301f75645bb74c0531d6a9bca4e52ce19c81903071f000000000000008000000000000000000000000000000000000000000000000000000000000000                    
+ [2014-01-09 11:38:23] Work job_id 13893 nonce2 1 ntime 52ce19c8                    
+ [2014-01-09 11:38:23] Generated target 0000000000000000000000000000000000000000000000000000555500000000                    
+ [2014-01-09 11:38:23] Generated stratum work                    
+ [2014-01-09 11:38:23] Pushing work from pool 0 to hash queue                    
+ [2014-01-09 11:38:23] Work update message received                    
+ [2014-01-09 11:38:23] Selecting pool 0 for work                    
+ [2014-01-09 11:38:23] Generated stratum merkle 5ee00c35ced56c98680cb38c9ba8e39e3975888bd20f94acae33ac1b80edafc6                    
+ [2014-01-09 11:38:23] Generated stratum header 00000002a63db41ee4f59a4c505db4f4f7c31192e2d1bac4642b804b00000002000000005ee00c35ced56c98680cb38c9ba8e39e3975888bd20f94acae33ac1b80edafc652ce19c81903071f000000000000008000000000000000000000000000000000000000000000000000000000000000                    
+ [2014-01-09 11:38:23] Work job_id 13893 nonce2 2 ntime 52ce19c8                    
+ [2014-01-09 11:38:23] Generated target 0000000000000000000000000000000000000000000000000000555500000000                    
+ [2014-01-09 11:38:23] Generated stratum work                    
+ [2014-01-09 11:38:23] Pushing work from pool 0 to hash queue                    
+ [2014-01-09 11:38:23] Discarded 2 stales that didn't match current hash                    
+ [2014-01-09 11:38:26] Work stale due to stratum job_id mismatch                    
+ [2014-01-09 11:38:26] Discarded work                    
+ [2014-01-09 11:38:26] Work stale due to stratum job_id mismatch                    
+ [2014-01-09 11:38:26] Discarded work                    
+ [2014-01-09 11:38:26] Selecting pool 0 for work                    
+ [2014-01-09 11:38:26] Generated stratum merkle b100ed218c50c1a91a8cc7049c0dc009041c73206ac21027bdc34d5801a1f53b                    
+ [2014-01-09 11:38:26] Generated stratum header 00000002a63db41ee4f59a4c505db4f4f7c31192e2d1bac4642b804b0000000200000000b100ed218c50c1a91a8cc7049c0dc009041c73206ac21027bdc34d5801a1f53b52ce19cb1903071f000000000000008000000000000000000000000000000000000000000000000000000000000000                    
+ [2014-01-09 11:38:26] Work job_id 13894 nonce2 3 ntime 52ce19cb                    
+ [2014-01-09 11:38:26] Generated target 0000000000000000000000000000000000000000000000000000555500000000                    
+ [2014-01-09 11:38:26] Generated stratum work                    
+ [2014-01-09 11:38:26] Pushing work from pool 0 to hash queue                    
+ [2014-01-09 11:38:26] Work update message received                    
+ [2014-01-09 11:38:26] Selecting pool 0 for work                    
+ [2014-01-09 11:38:26] Generated stratum merkle 6529edf57aae47c6e99fe4ad5ee0e53b3ec863f0da7c6a905e9f713c8ee9f7aa                    
+ [2014-01-09 11:38:26] Generated stratum header 00000002a63db41ee4f59a4c505db4f4f7c31192e2d1bac4642b804b00000002000000006529edf57aae47c6e99fe4ad5ee0e53b3ec863f0da7c6a905e9f713c8ee9f7aa52ce19cb1903071f000000000000008000000000000000000000000000000000000000000000000000000000000000                    
+ [2014-01-09 11:38:26] Work job_id 13894 nonce2 4 ntime 52ce19cb                    
+ [2014-01-09 11:38:26] Generated target 0000000000000000000000000000000000000000000000000000555500000000                    
+ [2014-01-09 11:38:26] Discarded 2 stales that didn't match current hash                    
+ [2014-01-09 11:38:26] Generated stratum work                    
+ [2014-01-09 11:38:26] Pushing work from pool 0 to hash queue                    
+(5s):0.000 (avg):0.000h/s | A:0  R:0  HW:0  WU:0.0/m          (5s):0.000 (avg):0.000h/s | A:0  R:0  HW:0  WU:0.0/m           starting cgminer process

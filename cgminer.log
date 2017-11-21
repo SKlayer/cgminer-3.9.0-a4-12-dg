@@ -1,0 +1,125 @@
+820
+ [2016-11-14 12:40:26] Started cgminer 3.9.0                    
+ [2016-11-14 12:40:26] Run Reset=0                    
+ [2016-11-14 12:40:26] SPI Speed 4000 kHz                    
+ [2016-11-14 12:40:26] ST MCU - Enable (Pre-header)                    
+ [2016-11-14 12:40:26] Run    temperature 35C                    
+ [2016-11-14 12:40:26] A1 = 1200,7                    
+ [2016-11-14 12:40:26] A1 PLL Clock = 1200MHz                    
+ [2016-11-14 12:40:26] A1 = 1200,7                    
+ [2016-11-14 12:40:26] A1 PLL Clock = 1200MHz                    
+ [2016-11-14 12:40:26] A1 = 1200,7                    
+ [2016-11-14 12:40:26] A1 PLL Clock = 1200MHz                    
+ [2016-11-14 12:40:26] A1 = 1200,7                    
+ [2016-11-14 12:40:26] A1 PLL Clock = 1200MHz                    
+ [2016-11-14 12:40:26] A1 = 1200,7                    
+ [2016-11-14 12:40:26] A1 PLL Clock = 1200MHz                    
+ [2016-11-14 12:40:26] A1 = 1200,7                    
+ [2016-11-14 12:40:26] A1 PLL Clock = 1200MHz                    
+ [2016-11-14 12:40:26] AUTO GPIO CS                    
+ [2016-11-14 12:40:26] spidev0.0(cs0): Found 20 A2 chips                    
+ [2016-11-14 12:40:26] SPI(cs0) A1_SetA1PLLClock, 0x02644000                    
+pllClkIdx is 7 7
+ [2016-11-14 12:40:26] SPI(cs1) no device                    
+ [2016-11-14 12:40:26] ACK(cs1) timeout:cmd_RESET_BCAST - 0.29 ms                    
+ [2016-11-14 12:40:26] SPI(cs2) no device                    
+ [2016-11-14 12:40:26] ACK(cs2) timeout:cmd_RESET_BCAST - 0.28 ms                    
+ [2016-11-14 12:40:26] SPI(cs3) no device                    
+ [2016-11-14 12:40:26] ACK(cs3) timeout:cmd_RESET_BCAST - 0.28 ms                    
+ [2016-11-14 12:40:26] SPI(cs4) no device                    
+ [2016-11-14 12:40:26] ACK(cs4) timeout:cmd_RESET_BCAST - 0.28 ms                    
+ [2016-11-14 12:40:26] SPI(cs5) no device                    
+ [2016-11-14 12:40:26] ACK(cs5) timeout:cmd_RESET_BCAST - 0.27 ms                    
+ [2016-11-14 12:40:26] A2 boards=1, active cores=1984, speed=47.38M                    
+ [2016-11-14 12:40:26] Probing for an alive pool                    
+ [2016-11-14 12:40:26] Network diff set to 58.6K                                                             
+get_nonce chip_id and job_id is 1 2
+get_nonce chip_id and job_id is 9 2
+get_nonce chip_id and job_id is 18 2
+get_nonce chip_id and job_id is 6 2
+get_nonce chip_id and job_id is 12 2
+get_nonce chip_id and job_id is 7 2
+get_nonce chip_id and job_id is 11 2
+get_nonce chip_id and job_id is 1 2
+get_nonce chip_id and job_id is 2 2
+ [2016-11-14 12:40:32] API running in UNRESTRICTED read access mode on port 4028 (8)                    
+(5s):29.90M (avg):76.27Mh/s | A:4608  R:0  WU:53427.3/mget_nonce chip_id and job_id is 19 2
+get_nonce chip_id and job_id is 2 2
+get_nonce chip_id and job_id is 19 2
+get_nonce chip_id and job_id is 17 2
+get_nonce chip_id and job_id is 12 2
+get_nonce chip_id and job_id is 17 2
+hw is error...
+get_nonce chip_id and job_id is 16 2
+get_nonce chip_id and job_id is 2 2
+ [2016-11-14 12:40:36] Failed to resolve (?wrong URL) /:80                    
+ [2016-11-14 12:40:36] Pool 2 slow/down or URL or credentials invalid                    
+ [2016-11-14 12:40:36] Failed to resolve (?wrong URL) /:80                    
+ [2016-11-14 12:40:36] Pool 1 slow/down or URL or credentials invalid                    
+get_nonce chip_id and job_id is 16 2
+(5s):45.03M (avg):72.30Mh/s | A:8704  R:0  WU:50231.1/mget_nonce chip_id and job_id is 9 2
+get_nonce chip_id and job_id is 16 2
+get_nonce chip_id and job_id is 2 2
+get_nonce chip_id and job_id is 19 2
+get_nonce chip_id and job_id is 11 2
+get_nonce chip_id and job_id is 1 2
+get_nonce chip_id and job_id is 4 2
+get_nonce chip_id and job_id is 2 3
+get_nonce chip_id and job_id is 7 3
+get_nonce chip_id and job_id is 5 3
+(5s):54.18M (avg):71.00Mh/s | A:13824  R:0  WU:53245.1/mget_nonce chip_id and job_id is 4 3
+get_nonce chip_id and job_id is 4 3
+get_nonce chip_id and job_id is 5 3
+get_nonce chip_id and job_id is 14 3
+get_nonce chip_id and job_id is 3 3
+get_nonce chip_id and job_id is 19 3
+get_nonce chip_id and job_id is 4 3
+get_nonce chip_id and job_id is 13 3
+get_nonce chip_id and job_id is 1 4
+get_nonce chip_id and job_id is 4 3
+(5s):59.68M (avg):70.36Mh/s | A:18944  R:0  WU:55204.2/mget_nonce chip_id and job_id is 2 3
+get_nonce chip_id and job_id is 9 3
+get_nonce chip_id and job_id is 1 4
+get_nonce chip_id and job_id is 3 3
+get_nonce chip_id and job_id is 6 3
+get_nonce chip_id and job_id is 12 3
+get_nonce chip_id and job_id is 4 3
+get_nonce chip_id and job_id is 13 3
+(5s):63.05M (avg):69.97Mh/s | A:23040  R:0  WU:54001.7/mget_nonce chip_id and job_id is 13 3
+get_nonce chip_id and job_id is 10 3
+get_nonce chip_id and job_id is 20 3
+get_nonce chip_id and job_id is 2 3
+get_nonce chip_id and job_id is 17 3
+get_nonce chip_id and job_id is 16 3
+get_nonce chip_id and job_id is 3 3
+get_nonce chip_id and job_id is 20 3
+get_nonce chip_id and job_id is 13 3
+get_nonce chip_id and job_id is 9 3
+(5s):65.12M (avg):69.71Mh/s | A:28160  R:0  WU:55154.5/mget_nonce chip_id and job_id is 17 3
+get_nonce chip_id and job_id is 1 4
+get_nonce chip_id and job_id is 1 4
+get_nonce chip_id and job_id is 2 3
+get_nonce chip_id and job_id is 17 3
+get_nonce chip_id and job_id is 7 3
+get_nonce chip_id and job_id is 7 3
+get_nonce chip_id and job_id is 4 3
+get_nonce chip_id and job_id is 5 3
+get_nonce chip_id and job_id is 14 3
+get_nonce chip_id and job_id is 5 3
+get_nonce chip_id and job_id is 8 3
+get_nonce chip_id and job_id is 11 4
+get_nonce chip_id and job_id is 20 3
+(5s):66.38M (avg):69.52Mh/s | A:35328  R:0  WU:59399.8/mget_nonce chip_id and job_id is 6 3
+get_nonce chip_id and job_id is 12 3
+get_nonce chip_id and job_id is 1 4
+get_nonce chip_id and job_id is 18 3
+(5s):67.16M (avg):69.37Mh/s | A:37376  R:0  WU:54860.7/mget_nonce chip_id and job_id is 5 3
+get_nonce chip_id and job_id is 7 3
+get_nonce chip_id and job_id is 8 3
+get_nonce chip_id and job_id is 6 3
+get_nonce chip_id and job_id is 2 3
+get_nonce chip_id and job_id is 12 3
+get_nonce chip_id and job_id is 2 3
+get_nonce chip_id and job_id is 3 3
+get_nonce chip_id and job_id is 12 3
+(5s):67.63M (avg):69.26Mh/s | A:41984  R:0  WU:54898.9/m
